@@ -1,0 +1,4 @@
+<a href="{% url 'category' %}" class="nav-item nav-link">Uzbekiston</a>
+<a href="{% url 'single' %}" class="nav-item nav-link">Jahon</a>
+<a href="{% url 'contact' %}" class="nav-item nav-link">Bog'lanish</a>
+                    <a href="{% url 'fan_texnika' %}" class="nav-item nav-link">Fan_texnika</a>
